@@ -1,0 +1,52 @@
+textarea{
+	resize: none;
+}
+
+input[type=checkbox]
+{
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+  margin: 10px;
+}
+
+tr{
+	transition-duration: .5s;
+}
+
+.content-wrapper, .main-footer {
+	margin-left: 0px;
+}
+
+.red{
+	color: red;
+}
+
+.green{
+	color: green;
+}
+
+.yellow{
+	color: yellow;
+}
+
+.orange{
+	color: orange;
+}
+
+.darkorange{
+	color: darkorange;
+}
+
+.fc-day{
+	background-color: white;
+}
+
+body .fc{
+	background-color: lightblue;
+}
+
+.swal2-popup{
+	font-size : 1.5rem !important;
+}
